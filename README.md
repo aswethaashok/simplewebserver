@@ -36,100 +36,49 @@ Top Companies List
 <th align="center">Rank</th>
 <th align="center">Company</th>
 <th align="center">Country</th>
-<th align="center">Sales</th>
-<th align="center">Profits</th>
-<th align="center">Assets</th>
+<th align="center">Revenue</th>
+<th align="center">Exchange</th>
 <th align="center">Market Value</th>
 </tr>
 <tr>
-  <td align="center">41</td>
-  <td align="center">Microsoft</td>
+  <td align="center">1.</td>
+  <td align="center">Microsoft Corp</td>
   <td align="center">United States</td>
-  <td align="center">$72.9 B</td>
-  <td align="center">$15.5 B</td>
-  <td align="center">$128.7 B</td>
-  <td align="center">$234.8 B</td>
+  <td align="center">$203.08 B</td>
+  <td align="center">NASDAQ</td>
+  <td align="center">$1.82 T</td>
 </tr>
 <tr>
-  <td align="center">102</td>
-  <td align="center">Oracle</td>
+  <td align="center">2.</td>
+  <td align="center">Oracle Corp</td>
   <td align="center">United States</td>
-  <td align="center">$37.1 B</td>
-  <td align="center">$ 10.6 B</td>
-  <td align="center">$79.4 B</td>
-  <td align="center">$172 B</td>
+  <td align="center">$46.07 B</td>
+  <td align="center">New York Stock Exchange</td>
+  <td align="center">$219.74 B</td>
 </tr>
 <tr>
-  <td align="center">211</td>
-  <td align="center">SAP</td>
+  <td align="center">3.</td>
+  <td align="center">SAP SE</td>
   <td align="center">Germany</td>
-  <td align="center">$20.9 B</td>
-  <td align="center">$3.6 B</td>
-  <td align="center">$35.5 B</td>
-  <td align="center">$103.9 B</td>
+  <td align="center">$32.97 B</td>
+  <td align="center">New York Stock Exchange</td>
+  <td align="center">$122.57 B</td>
 </tr>
 <tr>
-  <td align="center">718</td>
-  <td align="center">Symantee</td>
+  <td align="center">4.</td>
+  <td align="center">Salesforce Inc.</td>
   <td align="center">United States</td>
-  <td align="center">$6.8 B</td>
-  <td align="center">$1.1 B</td>
-  <td align="center">$1.4 B</td>
-  <td align="center">$16.9 B</td>
+  <td align="center">$30.29 B</td>
+  <td align="center">NewYork Stock Exchange</td>
+  <td align="center">$130.30 B</td>
 </tr>
 <tr>
-  <td align="center">993</td>
-  <td align="center">CA</td>
+  <td align="center">5.</td>
+  <td align="center">Adobe Inc.</td>
   <td align="center">United States</td>
-  <td align="center">$4.7 B</td>
-  <td align="center">$0.9 B</td>
-  <td align="center">$11.6 B</td>
-  <td align="center">$11.6 B</td>
-</tr>
-<tr>
-  <td align="center">879</td>
-  <td align="center">VMware</td>
-  <td align="center">United States</td>
-  <td align="center">$4.6 B</td>
-  <td align="center">$0.7 B</td>
-  <td align="center">$10.6 B</td>
-  <td align="center">$35.9 B</td>
-</tr>
-<tr>
-  <td align="center">1237</td>
-  <td align="center">Fiserv</td>
-  <td align="center">United States</td>
-  <td align="center">$4.5 B</td>
-  <td align="center">$0.6 B</td>
-  <td align="center">$8.5 B</td>
-  <td align="center">$11.4 B</td>
-</tr>
-<tr>
-  <td align="center">995</td>
-  <td align="center">Adobe Systems</td>
-  <td align="center">United States</td>
-  <td align="center">$4.4 B</td>
-  <td align="center">$0.7 B</td>
-  <td align="center">$10.2 B</td>
-  <td align="center">$20.6 B</td>
-</tr>
-<tr>
-  <td align="center">1099</td>
-  <td align="center">Intuit</td>
-  <td align="center">United States</td>
-  <td align="center">$4.2 B</td>
-  <td align="center">$0.8 B</td>
-  <td align="center">$5.1 B</td>
-  <td align="center">$19.4 B</td>
-</tr>
-<tr>
-  <td align="center">1534</td>
-  <td align="center">HCL Technologies</td>
-  <td align="center">India</td>
-  <td align="center">$3.8 B</td>
-  <td align="center">$0.4 B</td>
-  <td align="center">$3.2 B</td>
-  <td align="center">$10.2 b</td>
+  <td align="center">$17.61 B</td>
+  <td align="center">NASDAQ</td>
+  <td align="center">$158.71 B</td>
 </tr>
 </table>
 """
@@ -147,9 +96,9 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 
-![alt text](<Screenshot 2024-03-19 082742.png>)
+![alt text](<Screenshot 2024-03-25 100250.png>)
 
-![alt text](<Screenshot 2024-03-19 082934.png>)
+![alt text](<Screenshot 2024-03-25 100505.png>)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
